@@ -1,5 +1,11 @@
-A Alligator 
+A Aardvark  
 B Bat 
+<<<<<<< HEAD
 C Crow
 D Duck 
 E Eagle
+=======
+C Cat 
+D Duck 
+E Elephant
+>>>>>>> alternative
